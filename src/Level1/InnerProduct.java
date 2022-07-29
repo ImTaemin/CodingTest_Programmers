@@ -1,5 +1,6 @@
 package Level1;
 
+// https://school.programmers.co.kr/learn/courses/30/lessons/70128
 public class InnerProduct
 {
     public static void main(String[] args)
