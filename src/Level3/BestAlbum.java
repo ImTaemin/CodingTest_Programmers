@@ -62,7 +62,6 @@ public class BestAlbum
             }
         }
 
-        System.out.println(answer);
         return answer.stream().mapToInt(i -> i).toArray();
     }
 }
